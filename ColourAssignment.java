@@ -22,12 +22,15 @@ public class ColourAssignment {
         int blue = 0;
 
         // write your code here. Do not edit anythign else!
-        for (int i = 0; i <= 255; i++) {
-            // Create a new color
-            Color a = new Color(red, green, blue);
-            // Increment blue and decrement red
-            blue++;
-            red--;
+
+            //Code a for loop to count through a range between 0 and 255, increase its counter with 1 each round.
+        
+            //In the loop Create a new color, using the appropriate constructor method.
+            
+            // Increment blue with 1 and decrement red with 1
+            
+
+            //code end....
 
             // Update the color in the frame
             cb.updateColor(a);
@@ -40,5 +43,3 @@ public class ColourAssignment {
             }
         }
     }
-
-}
