@@ -14,3 +14,6 @@
 
 ## **Submission**
 - Once you have completed the code, simply push your changes to the repository.
+
+## OPEN YOUR ASSESSMENT AT THE FOLLOWING LINK: [Open this project in GitPod](https://github.com/Pinnacle-College-Kyalami/colourassignment-TeacherRenier/blob/main/ColourAssignment.java)
+
